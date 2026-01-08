@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Vanished",
+  "base_artist": "Crystal Castles",
+  "createdAt": "2026-01-08T18:33:01.293278Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Spirit They’ve Vanished",
+      "artist": "Avey Tare and Panda Bear",
+      "has_synced": false,
+      "path": "select/01_Spirit_They’ve_Vanished_Avey_Tare_and_Panda_Bear.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Spirit They’ve Vanished",
+      "artist": "Avey Tare & Panda Bear",
+      "has_synced": false,
+      "path": "select/02_Spirit_They’ve_Vanished_Avey_Tare_&_Panda_Bear.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Vanished",
+      "artist": "Crystal Castles",
+      "has_synced": true,
+      "path": "select/03_Vanished_Crystal_Castles.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Vanished",
+      "artist": "Front Line Assembly",
+      "has_synced": true,
+      "path": "select/04_Vanished_Front_Line_Assembly.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Vanished In Haze",
+      "artist": "Rage",
+      "has_synced": false,
+      "path": "select/05_Vanished_In_Haze_Rage.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Vanished - demo",
+      "artist": "Meshuggah",
+      "has_synced": true,
+      "path": "select/06_Vanished_-_demo_Meshuggah.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Vanished",
+      "artist": "Meshuggah",
+      "has_synced": false,
+      "path": "select/07_Vanished_Meshuggah.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Vanished - Nasty Nav Remix",
+      "artist": "Crystal Castles",
+      "has_synced": false,
+      "path": "select/08_Vanished_-_Nasty_Nav_Remix_Crystal_Castles.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Vanished - Radio Edit",
+      "artist": "Crystal Castles",
+      "has_synced": true,
+      "path": "select/09_Vanished_-_Radio_Edit_Crystal_Castles.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "It Vanished",
+      "artist": "Idontknowjeffery",
+      "has_synced": false,
+      "path": "select/10_It_Vanished_Idontknowjeffery.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Spirit They've Vanished",
+      "artist": "Animal Collective",
+      "has_synced": true,
+      "path": "select/11_Spirit_They've_Vanished_Animal_Collective.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "That Magnificent Deer Has Vanished",
+      "artist": "Master's Hammer",
+      "has_synced": false,
+      "path": "select/12_That_Magnificent_Deer_Has_Vanished_Master's_Hammer.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Vanished - Illusions of Grandeur Mix",
+      "artist": "Front Line Assembly",
+      "has_synced": false,
+      "path": "select/13_Vanished_-_Illusions_of_Grandeur_Mix_Front_Line_Assembly.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Vanished",
+      "artist": "Crystal Castles",
+      "has_synced": false,
+      "path": "select/pl_01_Vanished_Crystal_Castles.txt"
+    }
+  ]
+}
